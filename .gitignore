@@ -165,3 +165,5 @@ repos/
 
 # resultフォルダ
 results/
+
+.DS_Store
